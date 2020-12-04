@@ -1,6 +1,7 @@
 # FRNet: Factorized and Regular Blocks Network for Semantic Segmentation in Road Scene  
 ## **Published in: IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)**  
 This project contains the Pytorch model for the proposed FRNet: http://dx.doi.org/10.1109/TITS.2020.3037727  
+pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9275365  
 
 ## **Results**  
 | Dataset | Pretrained  | mIoU | FPS  |  train size |  
