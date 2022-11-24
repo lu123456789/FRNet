@@ -14,11 +14,14 @@ pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9275365
 ## **Citation**  
 Please consider citing the FRNet if it's helpful for your research.  
 
-@ARTICLE{9275365,  author={M. {Lu} and Z. {Chen} and Q. M. J. {Wu} and N. {Wang} and X. {Rong} and X. {Yan}},    
-journal={IEEE Transactions on Intelligent Transportation Systems},     
-title={FRNet: Factorized and Regular Blocks Network for Semantic Segmentation in Road Scene},     
-year={2020},    
-volume={},    
-number={},    
-pages={1-9},    
-doi={10.1109/TITS.2020.3037727}}  
+@ARTICLE{
+9275365,  
+author={Lu, Mengxu and Chen, Zhenxue and Wu, Q. M. Jonathan and Wang, Nannan and Rong, Xuewen and Yan, Xinghe},  
+journal={IEEE Transactions on Intelligent Transportation Systems},   
+title={FRNet: Factorized and Regular Blocks Network for Semantic Segmentation in Road Scene},   
+year={2022},  
+volume={23},  
+number={4},  
+pages={3522-3530},  
+doi={10.1109/TITS.2020.3037727}
+}
